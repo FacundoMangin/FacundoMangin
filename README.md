@@ -5,9 +5,9 @@ __Quién soy:__ Una persona que le gusta mucho la tecnología, el deporte, el au
 __Mis objetivos personales:__ Me gustaría poder desarrollarme en una organización que me permita perfeccionar mis capacidades y conocimientos tanto laborales como profesionales. Sé desenvolverme de manera efectiva con compañeros y clientes, me gusta el trabajo en equipo, en donde podamos encontrar la solución a los problemas, proponer mejoras, logrando la sinergia de las distintas capacidades.
 
 # Formacion
-<em> 2019 - En Curso </em> | Analista en Informática   Universidad Nacional San Antonio de Areco
-
 <em> 2023 - En Curso </em> | Desarrollador FrontEnd    Inove – Escuela de Código 
+
+<em> 2019 - En Curso </em> | Analista en Informática   Universidad Nacional San Antonio de Areco
 
 # Conocimientos
 HTML  :star: :star: :star: :star: :star:
