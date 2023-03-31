@@ -21,4 +21,4 @@ JAVA  :star: :star: :star: :star:
 
 :envelope: facundo.mangin@gmail.com
 
-:camera: Instagram: https://www.instagram.com/facumangin/
+:camera: https://www.instagram.com/facumangin/
