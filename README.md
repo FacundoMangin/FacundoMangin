@@ -14,7 +14,6 @@ HTML  :star: :star: :star: :star: :star:
 
 CSS   :star: :star: :star: :star: :star:
 
-JAVA  :star: :star: :star: :star:
 
 # Contactos:
 :telephone_receiver: +54 3329305304
